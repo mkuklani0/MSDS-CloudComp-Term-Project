@@ -1,1 +1,2 @@
-# MSDS-CloudComp-Term-Project
+# CloudComp-Term-Project
+To be given a real name later.
