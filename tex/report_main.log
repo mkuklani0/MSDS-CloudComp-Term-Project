@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.18 (MiKTeX 2.9.6500 64-bit) (preloaded format=pdflatex 2018.10.21)  22 OCT 2018 22:31
+This is pdfTeX, Version 3.14159265-2.6-1.40.18 (MiKTeX 2.9.6500 64-bit) (preloaded format=pdflatex 2018.10.21)  22 OCT 2018 22:47
 entering extended mode
 **./report_main.tex
 (report_main.tex
@@ -1465,8 +1465,8 @@ Package rerunfilecheck Info: File `report_main.out' has not changed.
 (rerunfilecheck)             Checksum: 3B6CA81964E53CD6E646DF36D6619F65;1839.
  ) 
 Here is how much of TeX's memory you used:
- 34625 strings out of 493308
- 644773 string characters out of 3138758
+ 34629 strings out of 493308
+ 644801 string characters out of 3138758
  797648 words of memory out of 3000000
  37569 multiletter control sequences out of 15000+200000
  611798 words of font info for 113 fonts, out of 3000000 for 9000
@@ -1478,9 +1478,9 @@ ype1/public/lm/lmbx12.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/lm/lm
 r10.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/lm/lmr12.pfb><C:/Progra
 m Files/MiKTeX 2.9/fonts/type1/public/lm/lmr17.pfb><C:/Program Files/MiKTeX 2.9
 /fonts/type1/public/lm/lmssbx10.pfb>
-Output written on report_main.pdf (10 pages, 187152 bytes).
+Output written on report_main.pdf (10 pages, 187855 bytes).
 PDF statistics:
- 167 PDF objects out of 1000 (max. 8388607)
- 48 named destinations out of 1000 (max. 500000)
+ 172 PDF objects out of 1000 (max. 8388607)
+ 52 named destinations out of 1000 (max. 500000)
  19581 words of extra memory for PDF output out of 20736 (max. 10000000)
 
