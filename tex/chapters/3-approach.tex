@@ -3,10 +3,12 @@
 To achieve this our approach would be:
 
 \begin{enumerate}
- \item Create S3 bucket
- \item Create a table in Dynamo DB
- \item Create EC2 instance or Machine Learning to analyze a csv file and predict based on this analysis
- \item Lastly if time permits upload data from S3 to Dynamo DB
+ \item On-prem database, and use cloud solution for compute and storage. For compute we will use lambda and storage - S3
+ \item Reporting solution on a different cloud. We will create a report to access data from on-prem database and S3 from a reporting tool like PowerBi or Sisense on a different cloud
+ % \item Create S3 bucket
+ % \item Create a table in Dynamo DB
+ % \item Create EC2 instance or Machine Learning to analyze a csv file and predict based on this analysis
+ % \item Lastly if time permits upload data from S3 to Dynamo DB
  \end{enumerate} 
 
 \section{Problem Definition}
