@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.18 (MiKTeX 2.9.6500 64-bit) (preloaded format=pdflatex 2018.10.21)  22 OCT 2018 18:59
+This is pdfTeX, Version 3.14159265-2.6-1.40.18 (MiKTeX 2.9.6500 64-bit) (preloaded format=pdflatex 2018.10.21)  22 OCT 2018 21:54
 entering extended mode
 **./report_main.tex
 (report_main.tex
@@ -1319,33 +1319,33 @@ File: mt-cmr.cfg 2013/05/19 v2.2 microtype config. file: Computer Modern Roman
 
 
 (chapters/0_0-titlepage.tex
-LaTeX Font Info:    Try loading font information for OT1+lmr on input line 28.
+LaTeX Font Info:    Try loading font information for OT1+lmr on input line 27.
  ("C:\Program Files\MiKTeX 2.9\tex\latex\lm\ot1lmr.fd"
 File: ot1lmr.fd 2009/10/30 v1.6 Font defs for Latin Modern
 )
-LaTeX Font Info:    Try loading font information for OML+lmm on input line 28.
+LaTeX Font Info:    Try loading font information for OML+lmm on input line 27.
  ("C:\Program Files\MiKTeX 2.9\tex\latex\lm\omllmm.fd"
 File: omllmm.fd 2009/10/30 v1.6 Font defs for Latin Modern
 )
-LaTeX Font Info:    Try loading font information for OMS+lmsy on input line 28.
+LaTeX Font Info:    Try loading font information for OMS+lmsy on input line 27.
 
 
 ("C:\Program Files\MiKTeX 2.9\tex\latex\lm\omslmsy.fd"
 File: omslmsy.fd 2009/10/30 v1.6 Font defs for Latin Modern
 )
-LaTeX Font Info:    Try loading font information for OMX+lmex on input line 28.
+LaTeX Font Info:    Try loading font information for OMX+lmex on input line 27.
 
 
 ("C:\Program Files\MiKTeX 2.9\tex\latex\lm\omxlmex.fd"
 File: omxlmex.fd 2009/10/30 v1.6 Font defs for Latin Modern
 )
 LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <10.95> on input line 28.
+(Font)              <10.95> on input line 27.
 LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <8> on input line 28.
+(Font)              <8> on input line 27.
 LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <6> on input line 28.
-LaTeX Font Info:    Try loading font information for U+msa on input line 28.
+(Font)              <6> on input line 27.
+LaTeX Font Info:    Try loading font information for U+msa on input line 27.
 
 ("C:\Program Files\MiKTeX 2.9\tex\latex\amsfonts\umsa.fd"
 File: umsa.fd 2013/01/14 v3.01 AMS symbols A
@@ -1353,7 +1353,7 @@ File: umsa.fd 2013/01/14 v3.01 AMS symbols A
 ("C:\Program Files\MiKTeX 2.9\tex\latex\microtype\mt-msa.cfg"
 File: mt-msa.cfg 2006/02/04 v1.1 microtype config. file: AMS symbols (a) (RS)
 )
-LaTeX Font Info:    Try loading font information for U+msb on input line 28.
+LaTeX Font Info:    Try loading font information for U+msb on input line 27.
 
 ("C:\Program Files\MiKTeX 2.9\tex\latex\amsfonts\umsb.fd"
 File: umsb.fd 2013/01/14 v3.01 AMS symbols B
@@ -1362,18 +1362,18 @@ File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 File: mt-msb.cfg 2005/06/01 v1.0 microtype config. file: AMS symbols (b) (RS)
 )
 LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <14.4> on input line 38.
+(Font)              <14.4> on input line 37.
 LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <10> on input line 38.
+(Font)              <10> on input line 37.
 LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <7> on input line 38.
+(Font)              <7> on input line 37.
  [1
 
 
 
 
 {C:/Users/mkuklani/AppData/Local/MiKTeX/2.9/pdftex/config/pdftex.map}])
-Underfull \hbox (badness 10000) in paragraph at lines 44--14
+Underfull \hbox (badness 10000) in paragraph at lines 43--14
 
  []
 
@@ -1461,21 +1461,14 @@ pters/1-introduction.aux)
 (chapters/2-background.aux) (chapters/3-approach.aux))
 Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 42.
 Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 42.
-
-
-Package rerunfilecheck Warning: File `report_main.out' has changed.
-(rerunfilecheck)                Rerun to get outlines right
-(rerunfilecheck)                or use package `bookmark'.
-
-Package rerunfilecheck Info: Checksums for `report_main.out':
-(rerunfilecheck)             Before: D9C3B99BBF33E30D343ECEAD791901FE;1641
-(rerunfilecheck)             After:  3B6CA81964E53CD6E646DF36D6619F65;1839.
+Package rerunfilecheck Info: File `report_main.out' has not changed.
+(rerunfilecheck)             Checksum: 3B6CA81964E53CD6E646DF36D6619F65;1839.
  ) 
 Here is how much of TeX's memory you used:
- 34622 strings out of 493308
- 644610 string characters out of 3138758
- 797644 words of memory out of 3000000
- 37568 multiletter control sequences out of 15000+200000
+ 34623 strings out of 493308
+ 644743 string characters out of 3138758
+ 797648 words of memory out of 3000000
+ 37569 multiletter control sequences out of 15000+200000
  611632 words of font info for 111 fonts, out of 3000000 for 9000
  1141 hyphenation exceptions out of 8191
  67i,7n,66p,10442b,470s stack positions out of 5000i,500n,10000p,200000b,50000s
@@ -1485,9 +1478,9 @@ ype1/public/lm/lmbx12.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/lm/lm
 r10.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/lm/lmr12.pfb><C:/Progra
 m Files/MiKTeX 2.9/fonts/type1/public/lm/lmr17.pfb><C:/Program Files/MiKTeX 2.9
 /fonts/type1/public/lm/lmssbx10.pfb>
-Output written on report_main.pdf (10 pages, 187715 bytes).
+Output written on report_main.pdf (10 pages, 187343 bytes).
 PDF statistics:
- 167 PDF objects out of 1000 (max. 8388607)
+ 170 PDF objects out of 1000 (max. 8388607)
  50 named destinations out of 1000 (max. 500000)
- 19573 words of extra memory for PDF output out of 20736 (max. 10000000)
+ 19581 words of extra memory for PDF output out of 20736 (max. 10000000)
 
