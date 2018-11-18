@@ -1,0 +1,27 @@
+\contentsline {chapter}{\nonumberline Introduction}{v}{chapter*.4}
+\contentsline {section}{\numberline {1}Concerns}{v}{section.0.1}
+\contentsline {subsection}{\numberline {1.1}Security}{v}{subsection.0.1.1}
+\contentsline {subsection}{\numberline {1.2}Data Privacy}{vi}{subsection.0.1.2}
+\contentsline {subsection}{\numberline {1.3}ROI}{vii}{subsection.0.1.3}
+\contentsline {subsection}{\numberline {1.4}Implementation Cost}{vii}{subsection.0.1.4}
+\contentsline {subsection}{\numberline {1.5}Integration Issues}{vii}{subsection.0.1.5}
+\contentsline {subsection}{\numberline {1.6}System Quality}{vii}{subsection.0.1.6}
+\contentsline {chapter}{\nonumberline Background}{viii}{chapter*.6}
+\contentsline {section}{\numberline {1}S3}{viii}{section.0.1}
+\contentsline {subsection}{\numberline {1.1}Advantages:}{viii}{subsection.0.1.1}
+\contentsline {section}{\numberline {2}Dynamo DB}{viii}{section.0.2}
+\contentsline {subsection}{\numberline {2.1}Advantages:}{ix}{subsection.0.2.1}
+\contentsline {section}{\numberline {3}Elastic Compute Cloud (EC2)}{ix}{section.0.3}
+\contentsline {subsection}{\numberline {3.1}Advantages:}{ix}{subsection.0.3.1}
+\contentsline {section}{\numberline {4}Elastic Compute Cloud (EC2)}{ix}{section.0.4}
+\contentsline {subsection}{\numberline {4.1}Advantages:}{ix}{subsection.0.4.1}
+\contentsline {chapter}{\nonumberline Approach}{x}{chapter*.7}
+\contentsline {section}{\numberline {1}Using AzureDataFactory and Azure SQL Database}{x}{section.0.1}
+\contentsline {section}{\numberline {2}Using S3 --> Lambda --> DynamoDB}{x}{section.0.2}
+\contentsline {section}{\numberline {3}Using AWS/Google --> AzureSQLDB}{x}{section.0.3}
+\contentsline {chapter}{\nonumberline Experiments}{xi}{chapter*.8}
+\contentsline {section}{\numberline {1}Azure Data Factory and SQL Database}{xi}{section.0.1}
+\contentsline {section}{\numberline {2}S3 --> Lambda --> DynamoDB}{xiii}{section.0.2}
+\contentsline {section}{\numberline {3}AWS/Google Cloud --> Azure SQL Database}{xiv}{section.0.3}
+\contentsline {subsection}{\numberline {3.1}Operations}{xiv}{subsection.0.3.1}
+\contentsline {chapter}{\nonumberline Conclusion}{xv}{chapter*.12}

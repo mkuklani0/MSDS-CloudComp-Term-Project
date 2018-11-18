@@ -1,24 +1,27 @@
 \chapter{Approach}\label{chap:approach}
 
-To achieve this our approach would be:
+\section{Using AzureDataFactory and Azure SQL Database}
+Use cloud resources for compute with database on-premises. 
 
 \begin{enumerate}
- \item On-prem database, and use cloud solution for compute and storage. For compute we will use lambda and storage - S3
- \item Reporting solution on a different cloud. We will create a report to access data from on-prem database and S3 from a reporting tool like PowerBi or Sisense on a different cloud
+ \item Create Azure SQL DB on Azure cloud.
+ \item Create SQL Database and SSIS DB database
+ \item Create Azure Data Factory for serverless compute on Azure cloud.
+\end{enumerate} 
+
+\section{Using S3 --> Lambda --> DynamoDB} 
+
+\begin{enumerate}
  \item Create S3 bucket
+ \item Create Lambda Function
  \item Create a table in Dynamo DB
- \item Create EC2 instance or Machine Learning to analyze a csv file and predict based on this analysis
- \item Lastly if time permits upload data from S3 to Dynamo DB
- \end{enumerate} 
+\end{enumerate}
 
-\section{Problem Definition}
+\section{Using AWS/Google --> AzureSQLDB} 
 
-How to utilize cloud for computing when the unit of work is for a few hours instead of spending money and resources on managing on-premise resources.
-
-\section{S3}
-
-
-\section{Dynamo DB}
-
-
-\subsection*{Dynamo DB}
+\begin{enumerate}
+ \item Create EC2/Google compute instance
+ \item Install unixODBC
+ \item Install Microsoft ODBC version 16 or 17
+ \item Connect to SQL Database on Azure
+\end{enumerate}

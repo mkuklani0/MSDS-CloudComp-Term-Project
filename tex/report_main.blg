@@ -1,0 +1,47 @@
+This is BibTeX, Version 0.99dThe top-level auxiliary file: report_main.aux
+A level-1 auxiliary file: chapters/0_0-titlepage.aux
+A level-1 auxiliary file: chapters/0_1-abstract.aux
+A level-1 auxiliary file: chapters/1-introduction.aux
+A level-1 auxiliary file: chapters/2-background.aux
+A level-1 auxiliary file: chapters/3-approach.aux
+A level-1 auxiliary file: chapters/4-experiments.aux
+A level-1 auxiliary file: chapters/5-conclusions.aux
+The style file: IEEEtran.bst
+Database file #1: bib/topic1.bib
+Database file #2: bib/topic2.bib
+-- IEEEtran.bst version 1.14 (2015/08/26) by Michael Shell.
+-- http://www.michaelshell.org/tex/ieeetran/bibtex/
+-- See the "IEEEtran_bst_HOWTO.pdf" manual for usage information.
+Warning--empty author in MTechLabs
+Warning--empty title in MTechLabs
+Warning--empty journal in MTechLabs
+Warning--empty year in MTechLabs
+Warning--empty author in SecurityModel
+Warning--empty title in SecurityModel
+Warning--empty journal in SecurityModel
+Warning--empty year in SecurityModel
+Warning--empty author in DataPrivacy
+Warning--empty title in DataPrivacy
+Warning--empty journal in DataPrivacy
+Warning--empty year in DataPrivacy
+Warning--empty author in DataPrivacy2
+Warning--empty title in DataPrivacy2
+Warning--empty journal in DataPrivacy2
+Warning--empty year in DataPrivacy2
+Warning--empty author in ROI
+Warning--empty title in ROI
+Warning--empty journal in ROI
+Warning--empty year in ROI
+Warning--empty journal in S3documentation
+Warning--empty year in S3documentation
+Warning--empty journal in DynamoDBDoc
+Warning--empty year in DynamoDBDoc
+Warning--empty journal in EC2Doc
+Warning--empty year in EC2Doc
+Warning--empty journal in LambdaDoc
+Warning--empty year in LambdaDoc
+Warning--empty journal in ReadCSVFile
+Warning--empty year in ReadCSVFile
+
+Done.
+(There were 30 warnings)

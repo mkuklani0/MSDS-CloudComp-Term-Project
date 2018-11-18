@@ -1,12 +1,21 @@
 
 % BCOR is binding correction
 %11pt font, 1in margins
-\documentclass[11pt, a4paper, BCOR=10mm, english]{scrbook}
+\documentclass[oneside, 11pt, a4paper, BCOR=10mm, english]{scrbook}
+%\documentclass[parskip=full]{scrreprt}
+%\renewcommand*{\chapterheadendvskip}{%
+%  \vspace{0.725\baselineskip plus 0.115\baselineskip minus 0.192\baselineskip}%
+%}
+
 \usepackage{enumitem}
+\usepackage{cite}
+
+
 % include all packages and define commands in setup.tex
 \input{setup}
 
 \begin{document}
+
     \pagestyle{empty} % no header and no page number
     % disable hyper links to remove warning "destination with same identifier"
     % this means within this section nothing can be referenced with a hyperlink
@@ -16,8 +25,8 @@
     \frontmatter  % roman page numbers
 
     \include{chapters/0_1-abstract}
-    % \tableofcontents
-    % \listoffigures
+    \tableofcontents
+    \listoffigures
     % \listoftables
     % \listofalgorithms
     % \hypersetup{pageanchor=true}  % re-enable hyperlinking
@@ -26,14 +35,14 @@
     \include{chapters/1-introduction}
     \include{chapters/2-background} % Debatably not needed
     \include{chapters/3-approach}
-    % \include{chapters/4-experiments}
-    % \include{chapters/5-conclusions}
+    \include{chapters/4-experiments}
+    \include{chapters/5-conclusions}
     % \include{chapters/6-appendix}
 
     % bibliography is not in the table of contents per default, add it manually
     % \addcontentsline{toc}{chapter}{Bibliography}
-    % \bibliographystyle{ieeetr} % IEEE
-    % \bibliography{bib/topic1,bib/topic2}
+    \bibliographystyle{IEEEtran} % IEEE
+    \bibliography{bib/topic1,bib/topic2}
     % \newpage
     % \thispagestyle{empty}
     \mbox{}
