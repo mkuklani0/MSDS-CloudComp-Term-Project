@@ -75,6 +75,12 @@ A.~A. Lambda, ``Amazon aws lambda.'' [Online]. Available:
   \url{https://aws.amazon.com/lambda/?nc2=h_m1}
 \BIBentrySTDinterwordspacing
 
+\bibitem{AzureSQLDB}
+\BIBentryALTinterwordspacing
+ [Online]. Available:
+  \url{https://docs.microsoft.com/en-us/azure/sql-database/}
+\BIBentrySTDinterwordspacing
+
 \bibitem{ReadCSVFile}
 \BIBentryALTinterwordspacing
 Try2Catch, ``How to read csv file and load to dynamodb using lambda function.''

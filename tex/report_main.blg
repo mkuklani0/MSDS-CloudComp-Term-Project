@@ -40,8 +40,12 @@ Warning--empty journal in EC2Doc
 Warning--empty year in EC2Doc
 Warning--empty journal in LambdaDoc
 Warning--empty year in LambdaDoc
+Warning--empty author in AzureSQLDB
+Warning--empty title in AzureSQLDB
+Warning--empty journal in AzureSQLDB
+Warning--empty year in AzureSQLDB
 Warning--empty journal in ReadCSVFile
 Warning--empty year in ReadCSVFile
 
 Done.
-(There were 30 warnings)
+(There were 34 warnings)

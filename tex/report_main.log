@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.18 (MiKTeX 2.9.6500 64-bit) (preloaded format=pdflatex 2018.10.21)  17 NOV 2018 20:39
+This is pdfTeX, Version 3.14159265-2.6-1.40.18 (MiKTeX 2.9.6500 64-bit) (preloaded format=pdflatex 2018.10.21)  18 NOV 2018 17:38
 entering extended mode
 **./report_main.tex
 (report_main.tex
@@ -507,23 +507,47 @@ Package: etoolbox 2017/11/22 v2.5 e-TeX tools for LaTeX (JAW)
 . Defining command \xshowbibdriver with sig. 'm' on line 193.
 .................................................
 ))
+("C:\Program Files\MiKTeX 2.9\tex\latex\tools\longtable.sty"
+Package: longtable 2014/10/28 v4.11 Multi-page Table package (DPC)
+\LTleft=\skip63
+\LTright=\skip64
+\LTpre=\skip65
+\LTpost=\skip66
+\LTchunksize=\count181
+\LTcapwidth=\dimen135
+\LT@head=\box45
+\LT@firsthead=\box46
+\LT@foot=\box47
+\LT@lastfoot=\box48
+\LT@cols=\count182
+\LT@rows=\count183
+\c@LT@tables=\count184
+\c@LT@chunks=\count185
+\LT@p@ftn=\toks21
+)
+Class scrbook Info: longtable captions redefined on input line 13.
+
 ("C:\Program Files\MiKTeX 2.9\tex\latex\caption\caption.sty"
 Package: caption 2016/02/21 v3.3-144 Customizing captions (AR)
 
 ("C:\Program Files\MiKTeX 2.9\tex\latex\caption\caption3.sty"
 Package: caption3 2016/05/22 v1.7-166 caption3 kernel (AR)
 Package caption3 Info: TeX engine: e-TeX on input line 67.
-\captionmargin=\dimen135
-\captionmargin@=\dimen136
-\captionwidth=\dimen137
-\caption@tempdima=\dimen138
-\caption@indent=\dimen139
-\caption@parindent=\dimen140
-\caption@hangindent=\dimen141
+\captionmargin=\dimen136
+\captionmargin@=\dimen137
+\captionwidth=\dimen138
+\caption@tempdima=\dimen139
+\caption@indent=\dimen140
+\caption@parindent=\dimen141
+\caption@hangindent=\dimen142
 )
 Package caption Info: KOMA-Script document class.
-\c@ContinuedFloat=\count181
-)
+\c@ContinuedFloat=\count186
+Package caption Info: longtable package is loaded.
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\caption\ltcaption.sty"
+Package: ltcaption 2013/06/09 v1.4-94 longtable captions (AR)
+))
 ("C:\Program Files\MiKTeX 2.9\tex\latex\chngcntr\chngcntr.sty"
 Package: chngcntr 2009/09/02 v1.0a change counter resetting
 )
@@ -536,19 +560,19 @@ Class scrbook Warning: Usage of package `titlesec' together
 (scrbook)              the extended optional argument of the section
 (scrbook)              commands.
 (scrbook)              Nevertheless, using requested
-(scrbook)              package `titlesec' on input line 26.
+(scrbook)              package `titlesec' on input line 27.
 
 ("C:\Program Files\MiKTeX 2.9\tex\latex\titlesec\titlesec.sty"
 Package: titlesec 2016/03/21 v2.10.2 Sectioning titles
-\ttl@box=\box45
-\beforetitleunit=\skip63
-\aftertitleunit=\skip64
-\ttl@plus=\dimen142
-\ttl@minus=\dimen143
-\ttl@toksa=\toks21
-\titlewidth=\dimen144
-\titlewidthlast=\dimen145
-\titlewidthfirst=\dimen146
+\ttl@box=\box49
+\beforetitleunit=\skip67
+\aftertitleunit=\skip68
+\ttl@plus=\dimen143
+\ttl@minus=\dimen144
+\ttl@toksa=\toks22
+\titlewidth=\dimen145
+\titlewidthlast=\dimen146
+\titlewidthfirst=\dimen147
 
 
 Package titlesec Warning: Non standard sectioning command detected
@@ -573,12 +597,12 @@ Package titlesec Warning: Non standard sectioning command detected
 )
 
 Class scrbook Warning: Activating an ugly workaround for a missing
-(scrbook)              feature of package `titlesec` on input line 26.
+(scrbook)              feature of package `titlesec` on input line 27.
 
 ("C:\Program Files\MiKTeX 2.9\tex\latex\setspace\setspace.sty"
 Package: setspace 2011/12/19 v6.7a set line spacing
 )
-Package scrhack Info: loading setspace hack on input line 29.
+Package scrhack Info: loading setspace hack on input line 30.
 
 ("C:\Program Files\MiKTeX 2.9\tex\latex\koma-script\setspace.hak"
 File: setspace.hak 2017/09/07 v3.24 KOMA-Script package (hacking package setspa
@@ -610,11 +634,11 @@ File: dvipsnam.def 2016/06/17 v3.0m Driver-dependent file (DPC,SPQR)
 ))
 ("C:\Program Files\MiKTeX 2.9\tex\latex\tools\array.sty"
 Package: array 2016/10/06 v2.4d Tabular extension package (FMi)
-\col@sep=\dimen147
-\extrarowheight=\dimen148
-\NC@list=\toks22
-\extratabsurround=\skip65
-\backup@length=\skip66
+\col@sep=\dimen148
+\extrarowheight=\dimen149
+\NC@list=\toks23
+\extratabsurround=\skip69
+\backup@length=\skip70
 )
 ("C:\Program Files\MiKTeX 2.9\tex\latex\graphics\graphicx.sty"
 Package: graphicx 2017/06/01 v1.1a Enhanced LaTeX Graphics (DPC,SPQR)
@@ -630,28 +654,28 @@ File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
 )
 Package graphics Info: Driver file: pdftex.def on input line 99.
 )
-\Gin@req@height=\dimen149
-\Gin@req@width=\dimen150
+\Gin@req@height=\dimen150
+\Gin@req@width=\dimen151
 )
 ("C:\Program Files\MiKTeX 2.9\tex\latex\subfig\subfig.sty"
 Package: subfig 2005/06/28 ver: 1.3 subfig package
-\c@KVtest=\count182
-\sf@farskip=\skip67
-\sf@captopadj=\dimen151
-\sf@capskip=\skip68
-\sf@nearskip=\skip69
-\c@subfigure=\count183
-\c@subfigure@save=\count184
-\c@lofdepth=\count185
-\c@subtable=\count186
-\c@subtable@save=\count187
-\c@lotdepth=\count188
-\sf@top=\skip70
-\sf@bottom=\skip71
+\c@KVtest=\count187
+\sf@farskip=\skip71
+\sf@captopadj=\dimen152
+\sf@capskip=\skip72
+\sf@nearskip=\skip73
+\c@subfigure=\count188
+\c@subfigure@save=\count189
+\c@lofdepth=\count190
+\c@subtable=\count191
+\c@subtable@save=\count192
+\c@lotdepth=\count193
+\sf@top=\skip74
+\sf@bottom=\skip75
 )
 ("C:\Program Files\MiKTeX 2.9\tex\latex\amsmath\amsmath.sty"
 Package: amsmath 2017/09/02 v2.17a AMS math features
-\@mathmargin=\skip72
+\@mathmargin=\skip76
 
 For additional information on amsmath, use the `?' option.
 ("C:\Program Files\MiKTeX 2.9\tex\latex\amsmath\amstext.sty"
@@ -659,65 +683,65 @@ Package: amstext 2000/06/29 v2.01 AMS text
 
 ("C:\Program Files\MiKTeX 2.9\tex\latex\amsmath\amsgen.sty"
 File: amsgen.sty 1999/11/30 v2.0 generic functions
-\@emptytoks=\toks23
-\ex@=\dimen152
+\@emptytoks=\toks24
+\ex@=\dimen153
 ))
 ("C:\Program Files\MiKTeX 2.9\tex\latex\amsmath\amsbsy.sty"
 Package: amsbsy 1999/11/29 v1.2d Bold Symbols
-\pmbraise@=\dimen153
+\pmbraise@=\dimen154
 )
 ("C:\Program Files\MiKTeX 2.9\tex\latex\amsmath\amsopn.sty"
 Package: amsopn 2016/03/08 v2.02 operator names
 )
-\inf@bad=\count189
+\inf@bad=\count194
 LaTeX Info: Redefining \frac on input line 213.
-\uproot@=\count190
-\leftroot@=\count191
+\uproot@=\count195
+\leftroot@=\count196
 LaTeX Info: Redefining \overline on input line 375.
-\classnum@=\count192
-\DOTSCASE@=\count193
+\classnum@=\count197
+\DOTSCASE@=\count198
 LaTeX Info: Redefining \ldots on input line 472.
 LaTeX Info: Redefining \dots on input line 475.
 LaTeX Info: Redefining \cdots on input line 596.
-\Mathstrutbox@=\box46
-\strutbox@=\box47
-\big@size=\dimen154
+\Mathstrutbox@=\box50
+\strutbox@=\box51
+\big@size=\dimen155
 LaTeX Font Info:    Redeclaring font encoding OML on input line 712.
 LaTeX Font Info:    Redeclaring font encoding OMS on input line 713.
-\macc@depth=\count194
-\c@MaxMatrixCols=\count195
+\macc@depth=\count199
+\c@MaxMatrixCols=\count266
 \dotsspace@=\muskip16
-\c@parentequation=\count196
-\dspbrk@lvl=\count197
-\tag@help=\toks24
-\row@=\count198
-\column@=\count199
-\maxfields@=\count266
-\andhelp@=\toks25
-\eqnshift@=\dimen155
-\alignsep@=\dimen156
-\tagshift@=\dimen157
-\tagwidth@=\dimen158
-\totwidth@=\dimen159
-\lineht@=\dimen160
-\@envbody=\toks26
-\multlinegap=\skip73
-\multlinetaggap=\skip74
-\mathdisplay@stack=\toks27
+\c@parentequation=\count267
+\dspbrk@lvl=\count268
+\tag@help=\toks25
+\row@=\count269
+\column@=\count270
+\maxfields@=\count271
+\andhelp@=\toks26
+\eqnshift@=\dimen156
+\alignsep@=\dimen157
+\tagshift@=\dimen158
+\tagwidth@=\dimen159
+\totwidth@=\dimen160
+\lineht@=\dimen161
+\@envbody=\toks27
+\multlinegap=\skip77
+\multlinetaggap=\skip78
+\mathdisplay@stack=\toks28
 LaTeX Info: Redefining \[ on input line 2817.
 LaTeX Info: Redefining \] on input line 2818.
 )
 ("C:\Program Files\MiKTeX 2.9\tex\latex\amscls\amsthm.sty"
 Package: amsthm 2015/03/04 v2.20.2
-\thm@style=\toks28
-\thm@bodyfont=\toks29
-\thm@headfont=\toks30
-\thm@notefont=\toks31
-\thm@headpunct=\toks32
-\thm@preskip=\skip75
-\thm@postskip=\skip76
-\thm@headsep=\skip77
-\dth@everypar=\toks33
+\thm@style=\toks29
+\thm@bodyfont=\toks30
+\thm@headfont=\toks31
+\thm@notefont=\toks32
+\thm@headpunct=\toks33
+\thm@preskip=\skip79
+\thm@postskip=\skip80
+\thm@headsep=\skip81
+\dth@everypar=\toks34
 )
 ("C:\Program Files\MiKTeX 2.9\tex\latex\amsfonts\amsfonts.sty"
 Package: amsfonts 2013/01/14 v3.01 Basic AMSFonts support
@@ -728,51 +752,32 @@ LaTeX Font Info:    Overwriting math alphabet `\mathfrak' in version `bold'
 )
 ("C:\Program Files\MiKTeX 2.9\tex\latex\tools\calc.sty"
 Package: calc 2014/10/28 v4.3 Infix arithmetic (KKT,FJ)
-\calc@Acount=\count267
-\calc@Bcount=\count268
-\calc@Adimen=\dimen161
-\calc@Bdimen=\dimen162
-\calc@Askip=\skip78
-\calc@Bskip=\skip79
+\calc@Acount=\count272
+\calc@Bcount=\count273
+\calc@Adimen=\dimen162
+\calc@Bdimen=\dimen163
+\calc@Askip=\skip82
+\calc@Bskip=\skip83
 LaTeX Info: Redefining \setlength on input line 80.
 LaTeX Info: Redefining \addtolength on input line 81.
-\calc@Ccount=\count269
-\calc@Cskip=\skip80
+\calc@Ccount=\count274
+\calc@Cskip=\skip84
 )
 ("C:\Program Files\MiKTeX 2.9\tex\latex\ulem\ulem.sty"
-\UL@box=\box48
-\UL@hyphenbox=\box49
-\UL@skip=\skip81
-\UL@hook=\toks34
-\UL@height=\dimen163
-\UL@pe=\count270
-\UL@pixel=\dimen164
-\ULC@box=\box50
+\UL@box=\box52
+\UL@hyphenbox=\box53
+\UL@skip=\skip85
+\UL@hook=\toks35
+\UL@height=\dimen164
+\UL@pe=\count275
+\UL@pixel=\dimen165
+\ULC@box=\box54
 Package: ulem 2012/05/18
-\ULdepth=\dimen165
+\ULdepth=\dimen166
 )
-("C:\Program Files\MiKTeX 2.9\tex\latex\tools\longtable.sty"
-Package: longtable 2014/10/28 v4.11 Multi-page Table package (DPC)
-\LTleft=\skip82
-\LTright=\skip83
-\LTpre=\skip84
-\LTpost=\skip85
-\LTchunksize=\count271
-\LTcapwidth=\dimen166
-\LT@head=\box51
-\LT@firsthead=\box52
-\LT@foot=\box53
-\LT@lastfoot=\box54
-\LT@cols=\count272
-\LT@rows=\count273
-\c@LT@tables=\count274
-\c@LT@chunks=\count275
-\LT@p@ftn=\toks35
-)
-Class scrbook Info: longtable captions redefined on input line 44.
 Package scrhack Info: hyperref hack deactivated because of
 (scrhack)             detection of KOMA-Script class, that doesn't
-(scrhack)             need that hack, on input line 48.
+(scrhack)             need that hack, on input line 49.
 
 ("C:\Program Files\MiKTeX 2.9\tex\latex\hyperref\hyperref.sty"
 Package: hyperref 2017/03/14 v6.85a Hypertext links for LaTeX
@@ -1277,8 +1282,8 @@ Package microtype Info: Loading configuration file microtype.cfg.
 ("C:\Program Files\MiKTeX 2.9\tex\latex\microtype\microtype.cfg"
 File: microtype.cfg 2017/07/07 v2.7 microtype main configuration file (RS)
 ))
-Package hyperref Info: Option `pdfnewwindow' set `true' on input line 111.
-Package hyperref Info: Option `plainpages' set `false' on input line 111.
+Package hyperref Info: Option `pdfnewwindow' set `true' on input line 112.
+Package hyperref Info: Option `plainpages' set `false' on input line 112.
 )
 (report_main.aux (chapters/0_0-titlepage.aux) (chapters/0_1-abstract.aux)
 (chapters/1-introduction.aux) (chapters/2-background.aux)
@@ -1314,11 +1319,6 @@ Package caption Info: Begin \AtBeginDocument code.
 Package caption Info: subfig package v1.3 is loaded.
 Package caption Info: float package is loaded.
 Package caption Info: hyperref package is loaded.
-Package caption Info: longtable package is loaded.
-
-("C:\Program Files\MiKTeX 2.9\tex\latex\caption\ltcaption.sty"
-Package: ltcaption 2013/06/09 v1.4-94 longtable captions (AR)
-)
 Package caption Info: End \AtBeginDocument code.
 
 ("C:\Program Files\MiKTeX 2.9\tex\context\base\supp-pdf.mkii"
@@ -1468,22 +1468,62 @@ Package microtype Info: Loading generic protrusion settings for font family
 Package tocbasic Info: character protrusion at toc deactivated on input line 28
 .
 
-(report_main.toc)
+(report_main.toc
+Overfull \hbox (0.66957pt too wide) detected at line 23
+ []\T1/lmr/m/n/10.95 xvii
+ []
+
+
+Overfull \hbox (0.66957pt too wide) detected at line 24
+ []\T1/lmr/m/n/10.95 xvii
+ []
+
+
+Overfull \hbox (0.66957pt too wide) detected at line 25
+ []\T1/lmr/m/n/10.95 xvii
+ []
+
+
+Overfull \hbox (2.37225pt too wide) detected at line 26
+ []\T1/lmss/bx/n/10.95 xviii
+ []
+
+
+Overfull \hbox (3.71121pt too wide) detected at line 27
+ []\T1/lmr/m/n/10.95 xviii
+ []
+
+[3
+
+
+
+])
 \tf@toc=\write5
 \openout5 = `report_main.toc'.
 
- [3
-
-
-
-]
+ [4]
 Package tocbasic Info: character protrusion at lof deactivated on input line 29
 .
- (report_main.lof)
+ (report_main.lof
+Overfull \hbox (3.71121pt too wide) detected at line 6
+ []\T1/lmr/m/n/10.95 xviii
+ []
+
+)
 \tf@lof=\write6
 \openout6 = `report_main.lof'.
 
- [4
+ [5
+
+
+]
+Package tocbasic Info: character protrusion at lot deactivated on input line 30
+.
+ (report_main.lot)
+\tf@lot=\write7
+\openout7 = `report_main.lot'.
+
+ [6
 
 
 ]
@@ -1496,7 +1536,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 2--4
 
  []
 
-<figures/experiments/Shared_Responsibility_Model.png, id=175, 420.3705pt x 226.
+<figures/experiments/Shared_Responsibility_Model.png, id=206, 420.3705pt x 226.
 446pt>
 File: figures/experiments/Shared_Responsibility_Model.png Graphic file (type pn
 g)
@@ -1506,11 +1546,11 @@ sed on input line 8.
 (pdftex.def)             Requested size: 398.33864pt x 214.59035pt.
 ("C:\Program Files\MiKTeX 2.9\tex\latex\ucs\uni-32.def"
 File: uni-32.def 2013/05/13 UCS: Unicode data U+2000..U+20FF
-) [5
+) [7
 
 
 
-] [6 <./figures/experiments/Shared_Responsibility_Model.png>]
+] [8 <./figures/experiments/Shared_Responsibility_Model.png>]
 LaTeX Font Info:    Try loading font information for OMS+lmr on input line 37.
 
 ("C:\Program Files\MiKTeX 2.9\tex\latex\lm\omslmr.fd"
@@ -1518,11 +1558,250 @@ File: omslmr.fd 2009/10/30 v1.6 Font defs for Latin Modern
 )
 LaTeX Font Info:    Font shape `OMS/lmr/m/n' in size <10.95> not available
 (Font)              Font shape `OMS/lmsy/m/n' tried instead on input line 37.
-) [7]
+
+Underfull \hbox (badness 1325) in paragraph at lines 83--83
+\T1/lmr/m/n/10.95 (+20) i-mum of 3 phys-i-cal
+ []
+
+
+Underfull \hbox (badness 4168) in paragraph at lines 83--84
+[]|\T1/lmr/m/n/10.95 (+20) 99.9% SLA for re-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 83--84
+\T1/lmr/m/n/10.95 (+20) gional and 99.95%
+ []
+
+
+Underfull \hbox (badness 1275) in paragraph at lines 85--85
+[]|\T1/lmr/m/n/10.95 (+20) Maximum size limit
+ []
+
+
+Underfull \hbox (badness 2443) in paragraph at lines 85--86
+\T1/lmr/m/n/10.95 (+20) mul-ti-part or re-sum-
+ []
+
+
+Underfull \hbox (badness 1038) in paragraph at lines 87--87
+\T1/lmr/m/n/10.95 (+20) size of data. Pric-
+ []
+
+
+Underfull \hbox (badness 1117) in paragraph at lines 87--87
+\T1/lmr/m/n/10.95 (+20) ing model varies as
+ []
+
+
+Underfull \hbox (badness 1253) in paragraph at lines 89--89
+[]|\T1/lmr/m/n/10.95 (+20) Supports 3 dif-fer-ent
+ []
+
+
+Underfull \hbox (badness 1533) in paragraph at lines 89--89
+\T1/lmr/m/n/10.95 (+20) forms of en-cryp-tion.
+ []
+
+
+Underfull \hbox (badness 3884) in paragraph at lines 89--90
+[]|\T1/lmr/m/n/10.95 (+20) Encryption is au-to-
+ []
+
+
+Underfull \hbox (badness 4699) in paragraph at lines 89--90
+\T1/lmr/m/n/10.95 (+20) matic and no cus-
+ []
+
+
+Underfull \hbox (badness 3108) in paragraph at lines 89--90
+\T1/lmr/m/n/10.95 (+20) tomer ac-tion is re-
+ []
+
+
+Underfull \hbox (badness 1253) in paragraph at lines 89--90
+\T1/lmr/m/n/10.95 (+20) 1 en-cryp-tion mech-a-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 91--91
+[]|\T1/lmr/m/n/10.95 (+20) Consumer re-tains
+ []
+
+
+Underfull \hbox (badness 4995) in paragraph at lines 91--91
+\T1/lmr/m/n/10.95 (+20) own-er-ship over the
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 91--91
+\T1/lmr/m/n/10.95 (+20) data is phys-i-cally
+ []
+
+
+Underfull \hbox (badness 7064) in paragraph at lines 91--91
+\T1/lmr/m/n/10.95 (+20) lo-cated, mak-ing it
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 91--91
+\T1/lmr/m/n/10.95 (+20) com-pli-ance re-quire-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 91--91
+\T1/lmr/m/n/10.95 (+20) cer-ti-fi-ca-tions, in-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 91--91
+\T1/lmr/m/n/10.95 (+20) clud-ing PCI-DSS,
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 91--91
+\T1/lmr/m/n/10.95 (+20) HIPAA/HITECH,
+ []
+
+
+Underfull \hbox (badness 2103) in paragraph at lines 91--91
+\T1/lmr/m/n/10.95 (+20) Pro-tec-tion Di-rec-tive,
+ []
+
+
+Underfull \hbox (badness 1168) in paragraph at lines 91--92
+[]|\T1/lmr/m/n/10.95 (+20) Compliance cer-ti-fi-ca-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 91--92
+\T1/lmr/m/n/10.95 (+20) HIPAA/HITECH,
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 91--92
+\T1/lmr/m/n/10.95 (+20) SOC* , Fe-dRamp,
+ []
+
+
+Underfull \hbox (badness 3965) in paragraph at lines 93--94
+[]|\T1/lmr/m/n/10.95 (+20) Allows to run Big
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 95--95
+[]|\T1/lmr/m/n/10.95 (+20) Storage ad-min-is-
+ []
+
+
+Underfull \hbox (badness 4168) in paragraph at lines 95--95
+\T1/lmr/m/n/10.95 (+20) tra-tors can clas-sify,
+ []
+
+
+Underfull \hbox (badness 1264) in paragraph at lines 95--95
+\T1/lmr/m/n/10.95 (+20) re-port and vi-su-al-ize
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 95--95
+\T1/lmr/m/n/10.95 (+20) data us-age trends
+ []
+
+
+Underfull \hbox (badness 2460) in paragraph at lines 95--95
+\T1/lmr/m/n/10.95 (+20) im-prove ser-vice lev-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 95--95
+\T1/lmr/m/n/10.95 (+20) fea-tures to con-trol
+ []
+
+[9] [10]
+Underfull \hbox (badness 10000) in paragraph at lines 107--108
+[]|\T1/lmr/bx/n/10.95 Google Com-pute
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 118--119
+[]|\T1/lmr/bx/n/10.95 Google Com-pute
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 133--133
+[]|\T1/lmr/m/n/10.95 (+20) enables to in-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 133--133
+\T1/lmr/m/n/10.95 (+20) crease/decrease
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 133--133
+\T1/lmr/m/n/10.95 (+20) ca-pac-ity within
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 133--133
+\T1/lmr/m/n/10.95 (+20) min-utes with the
+ []
+
+
+Underfull \hbox (badness 1067) in paragraph at lines 133--134
+\T1/lmr/m/n/10.95 (+20) be set up for auto-
+ []
+
+
+Underfull \hbox (badness 5652) in paragraph at lines 135--135
+[]|\T1/lmr/m/n/10.95 (+20) consumer has com-
+ []
+
+
+Underfull \hbox (badness 5652) in paragraph at lines 135--136
+[]|\T1/lmr/m/n/10.95 (+20) consumer has com-
+ []
+
+
+Underfull \hbox (badness 2326) in paragraph at lines 135--136
+\T1/lmr/m/n/10.95 (+20) tems and un-lim-ited
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 137--137
+[]|\T1/lmr/m/n/10.95 (+20) variety of in-stance
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 137--138
+[]|\T1/lmr/m/n/10.95 (+20) variety of in-stance
+ []
+
+
+Underfull \hbox (badness 1931) in paragraph at lines 141--141
+\T1/lmr/m/n/10.95 (+20) avail-abil-ity for each
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 141--142
+\T1/lmr/m/n/10.95 (+20) guar-an-tees 99.99%
+ []
+
+
+Underfull \hbox (badness 1616) in paragraph at lines 145--145
+\T1/lmr/m/n/10.95 (+20) able to re-duce cost
+ []
+
+
+Underfull \hbox (badness 1097) in paragraph at lines 145--145
+\T1/lmr/m/n/10.95 (+20) for low risk or less
+ []
+
+[11] [12]) [13]
 \openout2 = `chapters/2-background.aux'.
 
-
-(chapters/2-background.tex
+ (chapters/2-background.tex
 chapter without number
 pdfTeX warning (ext4): destination with the same identifier (name{section.0.1})
  has been already used, duplicate ignored
@@ -1539,12 +1818,12 @@ pdfTeX warning (ext4): destination with the same identifier (name{subsection.0.
 <to be read again> 
                    \relax 
 l.9 \subsection{Advantages:}
-                            \cite{S3documentation} [8
+                            \cite{S3documentation} [14
 
 
 
 
-]) [9]
+] [15]) [16]
 \openout2 = `chapters/3-approach.aux'.
 
 
@@ -1567,7 +1846,7 @@ e ignored
 <to be read again> 
                    \relax 
 l.20 \section{Using AWS/Google --> AzureSQLDB}
-                                              ) [10
+                                              ) [17
 
 
 
@@ -1578,7 +1857,7 @@ l.20 \section{Using AWS/Google --> AzureSQLDB}
 
 (chapters/4-experiments.tex
 chapter without number
-<figures/experiments/General_Cloud_Architecture.png, id=251, 424.58624pt x 330.
+<figures/experiments/General_Cloud_Architecture.png, id=309, 424.58624pt x 330.
 033pt>
 File: figures/experiments/General_Cloud_Architecture.png Graphic file (type png
 )
@@ -1591,58 +1870,58 @@ pdfTeX warning (ext4): destination with the same identifier (name{section.0.1})
 <to be read again> 
                    \relax 
 l.15 \section{Azure Data Factory and SQL Database}
-                                                   [11
+                                                   [18
 
 
 
 
  <./figures/experiments/General_Cloud_Architecture.png>]
-<figures/experiments/SSIS_ADF.png, id=258, 310.761pt x 402.90524pt>
+<figures/experiments/SSIS_ADF.png, id=315, 310.761pt x 402.90524pt>
 File: figures/experiments/SSIS_ADF.png Graphic file (type png)
 <use figures/experiments/SSIS_ADF.png>
 Package pdftex.def Info: figures/experiments/SSIS_ADF.png  used on input line 2
 0.
 (pdftex.def)             Requested size: 199.16931pt x 258.23349pt.
- [12 <./figures/experiments/SSIS_ADF.png>]pdfTeX warning (ext4): destination wi
+ [19 <./figures/experiments/SSIS_ADF.png>]pdfTeX warning (ext4): destination wi
 th the same identifier (name{section.0.2}) has been already used, duplicate ign
 ored
 <to be read again> 
                    \relax 
-l.42 \section{S3 --> Lambda --> DynamoDB}
+l.45 \section{S3 --> Lambda --> DynamoDB}
                                          
-<figures/experiments/AWS_S3_Lambda_DynamoDB.png, id=271, 422.7795pt x 148.1535p
+<figures/experiments/AWS_S3_Lambda_DynamoDB.png, id=330, 422.7795pt x 148.1535p
 t>
 File: figures/experiments/AWS_S3_Lambda_DynamoDB.png Graphic file (type png)
 <use figures/experiments/AWS_S3_Lambda_DynamoDB.png>
 Package pdftex.def Info: figures/experiments/AWS_S3_Lambda_DynamoDB.png  used o
-n input line 47.
+n input line 50.
 (pdftex.def)             Requested size: 199.16931pt x 69.7949pt.
- [13 <./figures/experiments/AWS_S3_Lambda_DynamoDB.png>]pdfTeX warning (ext4): 
+ [20 <./figures/experiments/AWS_S3_Lambda_DynamoDB.png>]pdfTeX warning (ext4): 
 destination with the same identifier (name{section.0.3}) has been already used,
  duplicate ignored
 <to be read again> 
                    \relax 
-l.76 ...n{AWS/Google Cloud --> Azure SQL Database}
+l.79 ...n{AWS/Google Cloud --> Azure SQL Database}
                                                   
-<figures/experiments/AWS_Google_to_AzureDB.png, id=289, 368.577pt x 324.0105pt>
+<figures/experiments/AWS_Google_to_AzureDB.png, id=349, 368.577pt x 324.0105pt>
 
 File: figures/experiments/AWS_Google_to_AzureDB.png Graphic file (type png)
 <use figures/experiments/AWS_Google_to_AzureDB.png>
 Package pdftex.def Info: figures/experiments/AWS_Google_to_AzureDB.png  used on
- input line 80.
+ input line 83.
 (pdftex.def)             Requested size: 276.43205pt x 243.00728pt.
 pdfTeX warning (ext4): destination with the same identifier (name{subsection.0.
 3.1}) has been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.83 \subsection{Operations}
-                            ) [14 <./figures/experiments/AWS_Google_to_AzureDB.
+l.86 \subsection{Operations}
+                            ) [21 <./figures/experiments/AWS_Google_to_AzureDB.
 png>]
 \openout2 = `chapters/5-conclusions.aux'.
 
  (chapters/5-conclusions.tex
 chapter without number
-) [15
+) [22
 
 
 
@@ -1659,7 +1938,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 44--47
 hts . org / blog /
  []
 
-) [16
+) [23
 
 
 
@@ -1673,20 +1952,16 @@ pters/1-introduction.aux) (chapters/2-background.aux)
 Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 51.
 Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 51.
 Package rerunfilecheck Info: File `report_main.out' has not changed.
-(rerunfilecheck)             Checksum: F1BA6459181D9710946147942D0761D4;4347.
-
-
-LaTeX Warning: Label(s) may have changed. Rerun to get cross-references right.
-
+(rerunfilecheck)             Checksum: 6B549FE53B9BC01732AE0F078C37576A;4856.
  ) 
 Here is how much of TeX's memory you used:
- 35446 strings out of 493308
- 656600 string characters out of 3138758
- 806763 words of memory out of 3000000
- 38262 multiletter control sequences out of 15000+200000
- 612711 words of font info for 124 fonts, out of 3000000 for 9000
+ 35503 strings out of 493308
+ 657394 string characters out of 3138758
+ 820062 words of memory out of 3000000
+ 38284 multiletter control sequences out of 15000+200000
+ 613126 words of font info for 129 fonts, out of 3000000 for 9000
  1141 hyphenation exceptions out of 8191
- 67i,7n,66p,10442b,586s stack positions out of 5000i,500n,10000p,200000b,50000s
+ 67i,11n,66p,10468b,586s stack positions out of 5000i,500n,10000p,200000b,50000s
 {C:/Program Files/MiKTeX 2.9/fonts/enc/dvips/lm/lm-mathsy.enc}{C:/Program Fil
 es/MiKTeX 2.9/fonts/enc/dvips/lm/lm-ec.enc}<C:/Program Files/MiKTeX 2.9/fonts/t
 ype1/public/lm/lmbx10.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/lm/lm
@@ -1695,9 +1970,9 @@ am Files/MiKTeX 2.9/fonts/type1/public/lm/lmr12.pfb><C:/Program Files/MiKTeX 2.
 9/fonts/type1/public/lm/lmr17.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/publ
 ic/lm/lmssbx10.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/lm/lmsy10.pf
 b>
-Output written on report_main.pdf (18 pages, 560551 bytes).
+Output written on report_main.pdf (25 pages, 580322 bytes).
 PDF statistics:
- 383 PDF objects out of 1000 (max. 8388607)
- 111 named destinations out of 1000 (max. 500000)
- 19710 words of extra memory for PDF output out of 20736 (max. 10000000)
+ 449 PDF objects out of 1000 (max. 8388607)
+ 133 named destinations out of 1000 (max. 500000)
+ 19734 words of extra memory for PDF output out of 20736 (max. 10000000)
 

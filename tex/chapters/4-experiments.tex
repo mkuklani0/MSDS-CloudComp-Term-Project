@@ -27,15 +27,18 @@ As part of our experiment we want to move compute to Azure Cloud by using Azure 
 \begin{enumerate}
  \item Create SQL Database. 
  \begin{enumerate}
- 	\item Select S3, then select all actions and all resources
-	\item Add additional permissions for DynamoDB, select all actions and all resources
-	\item Add additional permissions for Cloudwatch, select all actions and all resources.
+ 	\item Login to Azure portal and click create SQL Database
+	\item Create Cloud Computing database with a blank database
+	\item Once DB is created, get the connection string for this database.
  \end{enumerate}  
  \item Create Azure Data Factory. 
  \begin{enumerate}
- 	\item Select S3, then select all actions and all resources
-	\item Add additional permissions for DynamoDB, select all actions and all resources
-	\item Add additional permissions for Cloudwatch, select all actions and all resources.
+ 	\item Login to Azure portal and click Data + Analytics and click Data Factory
+	\item Create unique name for SSIS Data Factory
+	\item Click Author and Monitor.
+	\item Click Configure SSIS Integration Runtime tile.
+	\item On the SQL Settings page enter the configuration of the above SQL Database.
+	\item Select Catalog Database Server Endpoint to host SSISDB.
  \end{enumerate}  
 \end{enumerate}
  
